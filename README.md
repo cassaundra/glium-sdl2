@@ -13,7 +13,7 @@ are in heavy development and are subject to change.
 [dependencies]
 glium_sdl2 = "0.16"
 sdl2 = "0.34"
-glium = "0.28"
+glium = "0.30"
 
 features = []
 default-features = false
